@@ -24,5 +24,5 @@ expression1 = "([]{})"
 expression2 = "([)]"
 
 # Test case
-print(is_balanced(expression1))  # Output: True
-print(is_balanced(expression2))  # Output: False
+print(is_balanced(expression1))  # True
+print(is_balanced(expression2))  # False
